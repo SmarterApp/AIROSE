@@ -1,0 +1,1 @@
+A hsqldb database will be created in this folder for the sample set up.
