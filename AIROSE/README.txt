@@ -119,3 +119,7 @@ All these files are processed by org.opentestsystem.airose.docprocessors.ScoreTo
 
 Any change in the format of the CSV files will have to be incorporated in there.
 In the code provided we do modelling on "domain score". 
+
+
+Footnote: Due to restrictions on data distribution we have not bundled sample data 
+from Kaggle. You may however, obtain the data yourself from http://www.kaggle.com/c/asap-aes
