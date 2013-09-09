@@ -39,7 +39,5 @@ logs/*
 # Ignore .orig files
 *.orig
 
-# Ignore sampledata/training and sampledata/validation directories
-training/
-validation/
+# Ignore log directory
 AIROSE/log/
