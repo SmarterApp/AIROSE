@@ -6,7 +6,7 @@
 	<groupId>org.opentestsystem.delivery</groupId>
 	<artifactId>org.opentestsystem.delivery.airose</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>jar</packaging><!-- (ver-var: air-build-version) -->
 
 	<name>org.opentestsystem.delivery.airose</name>
 
