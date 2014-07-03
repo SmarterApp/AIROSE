@@ -10,6 +10,12 @@
 
 	<name>org.opentestsystem.delivery.airose</name>
 
+	<scm>
+        <connection>scm:hg:https://bitbucket.org/sbacoss/airose</connection>
+        <developerConnection>scm:hg:https://bitbucket.org/sbacoss/airose</developerConnection>
+        <url>https://bitbucket.org/sbacoss/airose</url>
+    </scm>
+
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -198,4 +204,13 @@
 		<name>American Institutes for Research</name>
 		<url>http://air.org</url>
 	</organization>
+	
+	<distributionManagement>
+       <repository>
+            <id>central</id>
+            <name>libs-releases</name>
+            <url>http://airdev.artifactoryonline.com/airdev/libs-releases-local</url>
+        </repository>
+    </distributionManagement>
+	
 </project>
